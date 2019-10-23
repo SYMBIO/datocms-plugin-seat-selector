@@ -1,0 +1,9 @@
+.container {
+  background-color: white;
+}
+
+select {
+  padding: 10px;
+  font-size: .9375rem;
+  margin: 0 10px 0 0;
+}
