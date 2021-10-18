@@ -56,8 +56,8 @@ module.exports = {
       append: false,
       publicPath: '',
       assets: [
-        'https://unpkg.com/datocms-plugins-sdk/dist/sdk.js',
-        'https://unpkg.com/datocms-plugins-sdk/dist/sdk.css',
+        'https://unpkg.com/datocms-plugins-sdk@0.1.2/dist/sdk.js',
+        'https://unpkg.com/datocms-plugins-sdk@0.1.2/dist/sdk.css',
       ]
     }),
   ].filter(Boolean),
